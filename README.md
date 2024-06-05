@@ -2,7 +2,7 @@
 
 Welcome to my first repository! This project is called **techsupport.personal**.
 
-PS: I'm a noob
+PS: I'm a noob 🤪
 
 ## Description 📄
 
